@@ -8,6 +8,6 @@ public class userController{
 
 	@RequestMapping("/")
     public String welcome() {
-        return "index";
+        return "NewFile";
     }
 }
